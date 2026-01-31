@@ -92,7 +92,7 @@ export default {
   favicon: './app/configurations/images/hsl/hsl-favicon.png',
 
   // Navbar logo
-  logo: 'hsl/reittiopas-logo.svg',
+  logo: 'israel/get_moving.svg',
 
   useCookiesPrompt: false,
   copyrightText: '© Copyright HSL',
