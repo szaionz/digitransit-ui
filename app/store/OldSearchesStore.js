@@ -15,7 +15,7 @@ export const STORE_VERSION = 3;
 /**
  * The maximum amount of time in seconds a stored item will be returned.
  */
-export const STORE_PERIOD = 60 * 60 * 24 * 60; // 60 days
+export const STORE_PERIOD = 0; // 60 days
 
 class OldSearchesStore extends Store {
   static storeName = 'OldSearchesStore';
