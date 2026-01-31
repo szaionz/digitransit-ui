@@ -45,14 +45,14 @@ const AppBarHsl = ({ lang, user, favourites }, context) => {
   }, []);
 
   const languages = [
-    {
-      name: 'fi',
-      url: `/fi${location.pathname}${location.search}`,
-    },
-    {
-      name: 'sv',
-      url: `/sv${location.pathname}${location.search}`,
-    },
+    // {
+    //   name: 'fi',
+    //   url: `/fi${location.pathname}${location.search}`,
+    // },
+    // {
+    //   name: 'sv',
+    //   url: `/sv${location.pathname}${location.search}`,
+    // },
     {
       name: 'en',
       url: `/en${location.pathname}${location.search}`,
