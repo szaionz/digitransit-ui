@@ -42,10 +42,10 @@ export default {
       default: `${POI_MAP_PREFIX}/map/v2/hsl-stop-map/`,
       sv: `${POI_MAP_PREFIX}/sv/stops,stations/`,
     },
-    REALTIME_STOP_MAP: {
-      default: `${POI_MAP_PREFIX}/fi/realtimeStops,stations/`,
-      sv: `${POI_MAP_PREFIX}/sv/realtimeStops,stations/`,
-    },
+    // REALTIME_STOP_MAP: {
+    //   default: `${POI_MAP_PREFIX}/fi/realtimeStops,stations/`,
+    //   sv: `${POI_MAP_PREFIX}/sv/realtimeStops,stations/`,
+    // },
 //    RENTAL_STATION_MAP: {
 //      default: `${POI_MAP_PREFIX}/fi/rentalStations/`,
 //    },
