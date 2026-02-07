@@ -39,7 +39,7 @@ export default {
   URL: {
     OTP: OTP_URL,
     STOP_MAP: {
-      default: `${POI_MAP_PREFIX}/fi/stops,stations/`,
+      default: `${POI_MAP_PREFIX}/map/v2/hsl-stop-map/`,
       sv: `${POI_MAP_PREFIX}/sv/stops,stations/`,
     },
     REALTIME_STOP_MAP: {
