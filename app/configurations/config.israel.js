@@ -566,8 +566,8 @@ export default {
     'tram',
     'subway',
     'rail',
-    'ferry',
-    'citybike',
+    // 'ferry',
+    // 'citybike',
   ],
   narrowNearYouButtons: true,
 
