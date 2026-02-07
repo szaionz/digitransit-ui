@@ -564,7 +564,7 @@ export default {
     'favorite',
     'bus',
     'tram',
-    'subway',
+    // 'subway',
     'rail',
     // 'ferry',
     // 'citybike',
